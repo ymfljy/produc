@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="25px" height="30px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip3">
+      <path d="M 1335.5 1510  C 1328.5625 1510  1323 1504.4375  1323 1497.5  L 1323 1492.5  C 1323 1485.5625  1328.5625 1480  1335.5 1480  L 1335.5 1480  C 1342.4375 1480  1348 1485.5625  1348 1492.5  L 1348 1497.5  C 1348 1504.4375  1342.4375 1510  1335.5 1510  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1323 -1480 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="25" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAABD9JREFUeAHtm09S2zAUxq3C0LAqR+AGcIRkw+CsYMOfVZMbhBMUTgA9AWHVwiawwTNsCCeA3oDeAFakHYL6PtdijJGs2tY/pnhj5Rlb+n5+sj8/myh6X/5vAuwtyT+5uFjm0+nSUxRdbcfxrYmxfzBxEBfHOD4/3yfx19TX8APn19+SpG2i3zcB4HuSHEaMDZ4FM7ZAEHaffzdozDbY1/quo8vLhV+TyYjmadtWZ8ECgPjfDw+XjLFlhfgDRbxSOMgpQPN7EeIp7aXiKSP6m93uaSWlij8O7i6QXukfHyF+QTZmiN+I46FsW51YUAA04u/ZzEx7Y2Xlpo5Q1T7BTAG6za1x9Zm3Ih5QggBwkiQ9SvmRLO055z9tnHmREd6nAMTzKDoUA8qvKf7jY6vVXu907vJxk22vAGBwaAA9mSAX4tGvtymgEX9m+8wL6M4zIHN3+6ozTwM72ozjnhig7bVTAMLdqQyOa/GA6wyATjwNxKjB+dfMcQIABudpOsVDzaJsYL7EYyzWAWjdXRQNTFpbGeCymFUAWvEWrG2ZWNk2a7fB1OCggiN/qLFmbWUiy2JWAOjcHdX0lk0/1JSJLNtmfAocJ8kX6nBX1qkrdyfrWxUzWhFKa3eera1KqCpuLAPKrC117tTdqcTK4o0BZNa2rHAZrHgAaXQRFO6OKLZldCm259LXK8ZQGq6dAUK8ytfTgb1Y21K1ko21AGgMDuzlmxAPHpUBoGSNV1Mqg0P3+DV6bzeWwA4yVPk2SMQOVOJRu9s2XLW1Ta3yRZBxLq3Xk8kZheLuqkCrDIDO/ljWAWVGLzNCss3BxipfA6CE7O6QVp/RLi6UCcOtOO4X46H+rgUAYjQQxlTUXLdZzjYFtPoUyHrODM6ebCBEtY2Xm/AKsu0hxWpngBBR9ugbcX4zNz/fCTkTGgMACA2EOzY72wn1DmEEACDgmx2aT6fU/ITfLxbOg4VgDAAEpxZ5Oh1TUwqB4sY+bKBjGVlqXwRlvSPN4QbxRvfVdtQG6Q0wpsurbR4DRjNA6MhqBGM6+JKI5dcUD+ZhyWgGCJG46uPlJmqAIpZfU/wQ3/3lY77aVgBATA7CmVQcffcXgnW2MgWKgjWucUjZsuPLKzgBACBlEHwaJmtToJgFsM50d9gpxtPf9D2gL+vsLAOEcI1rvCHX2HfpGp0DAIgMwgE1pYbJpXX2AiCF8Pfb/7FvCM6uARCdX4RrpNh9Pp62yTXifwNcuEZvACBUQCgzTLYheJsC+bOus86cTNPW6urX/D6m2kEAgBgtBEu1xmAAiDNaZphsFFyDAwAQGghGC65eL4LirBfXmWuUznk6Y0YLrkECAJCtbndAYvtFOOlvWOfJBEaq8RIsACjD94NKCJwvNlZPBwgaAAQCAr1x7lDzpWFi7Bbbmy7BA4BAvG5HrZEem68ywUdzrdagqfj3/d8JRNEf3GfV1kwmJr4AAAAASUVORK5CYII=" x="1323px" y="1480px" mask="url(#clip3)" />
+  </g>
+</svg>
